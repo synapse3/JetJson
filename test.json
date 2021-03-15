@@ -1,0 +1,42 @@
+{
+    "status": "ok",
+    "products": [
+    {
+        "id": 200299818,
+        "url": "/product/40639930-1868394",
+        "title": "Test 1",
+        "permalink": "40639930-1868394",
+        "updated_at": "2021-02-05T11:59:17.000+03:00",
+        "product_field_values": [
+        {
+            "id": 187492271,
+            "product_field_id": 75978,
+            "value": "Daily 24/7"
+        },
+        {
+            "id": 187492272,
+            "product_field_id": 75979,
+            "value": "+7 123 456 78 90"
+        },
+        {
+            "id": 187492274,
+            "product_field_id": 75981,
+            "value": "www.test.te"
+        },
+        {
+            "id": 187492270,
+            "product_field_id": 75977,
+            "value": "50.0655"
+        },
+        {
+            "id": 187740789,
+            "product_field_id": 76005,
+            "value": "8.4103"
+        },
+        {
+            "id": 187492273,
+            "product_field_id": 75980,
+            "value": "9 fiel"
+        }]
+    }]
+}
